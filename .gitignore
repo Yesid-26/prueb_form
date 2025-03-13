@@ -1,7 +1,0 @@
-node_modules/
-.gitignore
-.hintrc
-.stylelintrc.json
-README.md
-package-lock.json
-package.json
